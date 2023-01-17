@@ -2,28 +2,37 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-#程序员 #java #毕业设计 #小区物业管理系统 #ssm #课程设计 #编程 #jsp #mybatis #源代码
+
+## 基于ssm的小区物业管理系统(源代码+数据库)
+
+## 一、系统介绍
+
+本项目分为管理员与普通用户两种角色
+
+- 普通用户
+
+  我的信息、我的投诉、我的费用单、新闻查询、公告查询
+
+  管理员
+
+  用户管理、用户缴费、车位管理、新闻管理、公告管理、投诉管理。
 
 
-基于ssm的小区物业管理系统
-所用技术：ssm+mybatis+mysql+jsp
+## 二、所用技术
 
-普通用户
+- 前端基于layui
+- 后端基于ssm(Spring+SpringMvc+Mybatis)+jsp+mysql
 
-我的信息、我的投诉、我的费用单、新闻查询、公告查询
 
-管理员
+## 三、环境介绍
 
-用户管理、用户缴费、车位管理、新闻管理、公告管理、投诉管理。
+基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7,Maven，tomcat8
 
-运行地址
-http://localhost:8686/estate_master/commonapi/sys_login
+所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
-管理员 用户名：admin 密码：123
+## 四、页面截图
 
-普通用户 用户名：user 密码：123
 
-运行截图
 ![contents](./picture/picture1.png)
 
 ![contents](./picture/picture2.png)
@@ -44,12 +53,21 @@ http://localhost:8686/estate_master/commonapi/sys_login
 
 ![contents](./picture/picture10.png)
 
+## 五、浏览地址
 
-### 基础环境 :IDEA，maven3.6，JDK 1.8， Mysql 5.7, tomcat8.x
+http://localhost:8686/estate_master/commonapi/sys_login
 
-### 源码+数据库脚本 
+管理员 用户名：admin 密码：123
 
-所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
+普通用户 用户名：user 密码：123
+
+## 六、安装教程
+
+1. 使用Navicat或者其它工具、在mysql中创建对应名称的数据库、并导入项目的sql文件；
+2. 使用IDEA/Eclipse导入项目，若为maven项目请选择maven，导入成功后请执行maven clean;maven install命令
+3. 修改src里面的config.properties里面的数据库配置
+4. 将项目加入到tomcat容器里面，启动项目 
+
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
