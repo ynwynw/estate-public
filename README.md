@@ -2,6 +2,11 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
+**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128701887](https://blog.csdn.net/2303_76227485/article/details/128701887)**
+
+**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+
+**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于ssm的小区物业管理系统(源代码+数据库)
 
