@@ -8,7 +8,7 @@
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于ssm的小区物业管理系统(源代码+数据库)
+## 基于ssm的小区物业管理系统(源代码+数据库+8000字文档)
 
 ## 一、系统介绍
 
