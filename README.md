@@ -1,10 +1,10 @@
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**接毕业设计和论文**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128701887](https://blog.csdn.net/2303_76227485/article/details/128701887)**
 
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+**视频演示：[https://www.bilibili.com/video/BV1BV4y1y7NX/](https://www.bilibili.com/video/BV1BV4y1y7NX/)**
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
@@ -74,6 +74,6 @@ http://localhost:8686/estate_master/commonapi/sys_login
 4. 将项目加入到tomcat容器里面，启动项目 
 
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**接毕业设计和论文**
